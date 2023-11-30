@@ -1,7 +1,6 @@
 # emilsinclair5
 
-![Facade](https://1.bp.blogspot.com/-
-IdsvMzVwpRI/T84TdDzLGGI/AAAAAAAADqc/QOD44MxBGh8/s1600/IMG_7888.JPG "Church Facade") 
+![Facade](https://1.bp.blogspot.com/-IdsvMzVwpRI/T84TdDzLGGI/AAAAAAAADqc/QOD44MxBGh8/s1600/IMG_7888.JPG "Church Facade") 
 
 *weird atomic bomb thing*
 
