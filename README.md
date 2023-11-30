@@ -1,7 +1,7 @@
 # emilsinclair5
 
 
-![sin kckair](https://static.wikia.nocookie.net/limbuscompany/images/a/a7/Sinclair_StandingSprite.png/revision/latest/scale-to-width-down/1000?cb=20230228041304)
+![](https://static.wikia.nocookie.net/limbuscompany/images/a/a7/Sinclair_StandingSprite.png/revision/latest/scale-to-width-down/1000?cb=20230228041304)
 
 *weird atomic bomb thing*
 
